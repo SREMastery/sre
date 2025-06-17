@@ -1,0 +1,33 @@
+site_url: https://sre.github.io/sre
+site_name: SRE
+docs_dir: courses
+theme:
+  name: material
+  logo: img/SRE_Mastery.png
+  favicon: img/favicon.ico
+  custom_dir: overrides
+  features:
+    - navigation.sections
+extra_css:
+  - stylesheets/custom.css
+nav:
+  - Home: index.md
+  - Basic:
+      - SRE Principles: Basic/SRE_Principles/
+      - Linux: Basic/Linux/
+      - Git: Basic/Git/
+      - Go Programming: Basic/Go_Programing/
+      - Azure Administration (AZ-104): Basic/Azure_Admin_AZ-104/
+      - Azure DevOps (AZ-400): Basic/Azure_DevOps-AZ-400/
+      - Azure Networking (AZ-700): Basic/Azure_Networking-AZ-700/
+  - Advanced:
+      - GitOps: Advanced/GitOps/
+      - AKS: Advanced/AKS/
+  - Contribute: CONTRIBUTING.md
+  - Code of Conduct: CODE_OF_CONDUCT.md
+  - SRE Community: sre_community.md
+copyright: "Copyright 2020  Corporation. All Rights Reserved. Licensed under the Creative Commons Attribution 4.0 International Public License"
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SREMastery/sre
