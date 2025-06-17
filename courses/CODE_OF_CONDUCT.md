@@ -1,107 +1,39 @@
-# Code of Conduct for SRE and DevOps Teams
+This code of conduct outlines expectations for participation in LinkedIn-managed open source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
 
-## Our Commitment
+Our open source communities strive to:
 
-We are committed to maintaining a professional, inclusive, and collaborative environment for all team members. This Code of Conduct outlines our expectations for all participants in our SRE and DevOps community, as well as the consequences for unacceptable behavior.
+* **Be friendly and patient:** Remember you might not be communicating in someone else's primary spoken or programming language, and others may not have your level of understanding.
+* **Be welcoming:** Our communities welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* **Be respectful:** We are a world-wide community of professionals, and we conduct ourselves professionally. Disagreement is no excuse for poor behavior and poor manners. Disrespectful and unacceptable behavior includes, but is not limited to:
+    * Violent threats or language.
+    * Discriminatory or derogatory jokes and language.
+    * Posting sexually explicit or violent material.
+    * Posting, or threatening to post, people's personally identifying information ("doxing").
+    * Insults, especially those using discriminatory terms or slurs.
+    * Behavior that could be perceived as sexual attention.
+    * Advocating for or encouraging any of the above behaviors.
+* **Understand disagreements:** Disagreements, both social and technical, are useful learning opportunities. Seek to understand the other viewpoints and resolve differences constructively.
+* This code is not exhaustive or complete. It serves to capture our common understanding of a productive, collaborative environment. We expect the code to be followed in spirit as much as in the letter.
 
-## Our Standards
+### Scope
 
-### Professional Excellence
+This code of conduct applies to all repos and communities for LinkedIn-managed open source projects regardless of whether or not the repo explicitly calls out its use of this code. The code also applies in public spaces when an individual is representing a project or its community. Examples include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
-1. **Reliability and Accountability**
+Note: Some LinkedIn-managed communities have codes of conduct that pre-date this document and issue resolution process. While communities are not required to change their code, they are expected to use the resolution process outlined here. The review team will coordinate with the communities involved to address your concerns.
 
-   - Take ownership of systems and services under your responsibility
-   - Respond promptly to incidents and service disruptions
-   - Maintain clear documentation of systems and processes
-   - Follow established incident response procedures
+### Reporting Code of Conduct Issues
 
-2. **Technical Best Practices**
+We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [oss@linkedin.com](mailto:oss@linkedin.com).
 
-   - Write clean, maintainable, and well-documented code
-   - Follow infrastructure-as-code principles
-   - Implement proper security measures and follow security best practices
-   - Maintain appropriate test coverage for all changes
+In your report, please include:
 
-3. **Collaboration and Communication**
+*   Your contact information.
+*   Names (real, usernames or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
+*   Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public chat log), please include a link or attachment.
+*   Any additional information that may be helpful.
 
-   - Share knowledge and expertise with team members
-   - Provide constructive feedback on technical decisions
-   - Document and communicate changes effectively
-   - Participate actively in team meetings and discussions
+All reports will be reviewed by a multi-person team and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
 
-### Ethical Standards
+Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
 
-1. **Security and Privacy**
-
-   - Protect sensitive data and credentials
-   - Follow the principle of least privilege
-   - Report security vulnerabilities promptly
-   - Maintain confidentiality of system information
-
-2. **Professional Integrity**
-
-   - Be honest about system status and incidents
-   - Take responsibility for mistakes and learn from them
-   - Avoid conflicts of interest
-   - Respect intellectual property rights
-
-3. **Inclusive Environment**
-   - Treat all team members with respect
-   - Value diverse perspectives and experiences
-   - Avoid discriminatory language and behavior
-   - Create an environment where everyone feels welcome
-
-## Incident Response Guidelines
-
-1. **During Incidents**
-
-   - Follow the established incident response process
-   - Communicate clearly and promptly about incident status
-   - Document all actions taken during incident resolution
-   - Prioritize service restoration while maintaining system integrity
-
-2. **Post-Incident**
-   - Participate in post-mortem analysis
-   - Share learnings with the team
-   - Implement preventive measures
-   - Update documentation and runbooks
-
-## Continuous Improvement
-
-1. **Learning and Development**
-
-   - Stay current with industry best practices
-   - Share knowledge through documentation and presentations
-   - Participate in training and certification programs
-   - Mentor junior team members
-
-2. **Process Improvement**
-   - Identify and suggest improvements to existing processes
-   - Participate in retrospectives and feedback sessions
-   - Implement automation where appropriate
-   - Reduce toil through systematic improvements
-
-## Enforcement
-
-1. **Reporting**
-
-   - Report violations of this Code of Conduct to team leads or management
-   - All reports will be taken seriously and investigated
-   - Confidentiality will be maintained to the extent possible
-
-2. **Consequences**
-   - Violations may result in temporary or permanent removal from certain activities
-   - Serious violations may result in disciplinary action
-   - All decisions will be made fairly and consistently
-
-## Support
-
-If you need to report a violation or have questions about this Code of Conduct, please contact your team lead or manager. All reports will be handled confidentially and professionally.
-
-## Updates
-
-This Code of Conduct may be updated periodically to reflect evolving best practices and team needs. All team members will be notified of significant changes.
-
----
-
-_Last updated: [Current Date]_
+_This code of conduct is based on the [Microsoft](https://opensource.microsoft.com/codeofconduct/) Open Source Code of Conduct which was based on the [template](http://todogroup.org/opencodeofconduct) established by the [TODO Group](http://todogroup.org/) and used by numerous other large communities (e.g., [Facebook](https://code.facebook.com/pages/876921332402685/open-source-code-of-conduct), [Yahoo](https://yahoo.github.io/codeofconduct), [Twitter](https://engineering.twitter.com/opensource/code-of-conduct), [GitHub](http://todogroup.org/opencodeofconduct/#opensource@github.com)) and the Scope section from the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4/)._

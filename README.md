@@ -1,1 +1,1 @@
-# sre
+courses/index.md
